@@ -1,0 +1,5 @@
+C:\Users\ALUMNO\Desktop\arragloCaracteres\Palindroma\bin\Debug\Palindroma.exe.config
+C:\Users\ALUMNO\Desktop\arragloCaracteres\Palindroma\bin\Debug\Palindroma.exe
+C:\Users\ALUMNO\Desktop\arragloCaracteres\Palindroma\bin\Debug\Palindroma.pdb
+C:\Users\ALUMNO\Desktop\arragloCaracteres\Palindroma\obj\Debug\Palindroma.exe
+C:\Users\ALUMNO\Desktop\arragloCaracteres\Palindroma\obj\Debug\Palindroma.pdb
