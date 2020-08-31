@@ -1,0 +1,5 @@
+C:\Users\ALUMNO\Desktop\arragloCaracteres\mayus\bin\Debug\mayus.exe.config
+C:\Users\ALUMNO\Desktop\arragloCaracteres\mayus\bin\Debug\mayus.exe
+C:\Users\ALUMNO\Desktop\arragloCaracteres\mayus\bin\Debug\mayus.pdb
+C:\Users\ALUMNO\Desktop\arragloCaracteres\mayus\obj\Debug\mayus.exe
+C:\Users\ALUMNO\Desktop\arragloCaracteres\mayus\obj\Debug\mayus.pdb

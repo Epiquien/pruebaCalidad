@@ -1,0 +1,12 @@
+C:\Users\ALUMNO\Desktop\arragloCaracteres\Palindroma\bin\Debug\Palindroma.exe.config
+C:\Users\ALUMNO\Desktop\arragloCaracteres\Palindroma\bin\Debug\Palindroma.exe
+C:\Users\ALUMNO\Desktop\arragloCaracteres\Palindroma\bin\Debug\Palindroma.pdb
+C:\Users\ALUMNO\Desktop\arragloCaracteres\Palindroma\obj\Debug\Palindroma.exe
+C:\Users\ALUMNO\Desktop\arragloCaracteres\Palindroma\obj\Debug\Palindroma.pdb
+C:\Users\JOSUE\Desktop\pruebaCalidad-master\Palindroma\bin\Debug\Palindroma.exe.config
+C:\Users\JOSUE\Desktop\pruebaCalidad-master\Palindroma\bin\Debug\Palindroma.exe
+C:\Users\JOSUE\Desktop\pruebaCalidad-master\Palindroma\bin\Debug\Palindroma.pdb
+C:\Users\JOSUE\Desktop\pruebaCalidad-master\Palindroma\obj\Debug\Palindroma.csprojAssemblyReference.cache
+C:\Users\JOSUE\Desktop\pruebaCalidad-master\Palindroma\obj\Debug\Palindroma.csproj.CoreCompileInputs.cache
+C:\Users\JOSUE\Desktop\pruebaCalidad-master\Palindroma\obj\Debug\Palindroma.exe
+C:\Users\JOSUE\Desktop\pruebaCalidad-master\Palindroma\obj\Debug\Palindroma.pdb

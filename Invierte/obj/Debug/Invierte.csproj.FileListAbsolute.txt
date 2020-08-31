@@ -1,0 +1,5 @@
+C:\Users\ALUMNO\Desktop\arragloCaracteres\Invierte\bin\Debug\Invierte.exe.config
+C:\Users\ALUMNO\Desktop\arragloCaracteres\Invierte\bin\Debug\Invierte.exe
+C:\Users\ALUMNO\Desktop\arragloCaracteres\Invierte\bin\Debug\Invierte.pdb
+C:\Users\ALUMNO\Desktop\arragloCaracteres\Invierte\obj\Debug\Invierte.exe
+C:\Users\ALUMNO\Desktop\arragloCaracteres\Invierte\obj\Debug\Invierte.pdb

@@ -1,0 +1,6 @@
+C:\Users\ALUMNO\Desktop\arragloCaracteres\arragloCaracteres\bin\Debug\arragloCaracteres.exe.config
+C:\Users\ALUMNO\Desktop\arragloCaracteres\arragloCaracteres\bin\Debug\arragloCaracteres.exe
+C:\Users\ALUMNO\Desktop\arragloCaracteres\arragloCaracteres\bin\Debug\arragloCaracteres.pdb
+C:\Users\ALUMNO\Desktop\arragloCaracteres\arragloCaracteres\obj\Debug\arragloCaracteres.csprojResolveAssemblyReference.cache
+C:\Users\ALUMNO\Desktop\arragloCaracteres\arragloCaracteres\obj\Debug\arragloCaracteres.exe
+C:\Users\ALUMNO\Desktop\arragloCaracteres\arragloCaracteres\obj\Debug\arragloCaracteres.pdb
